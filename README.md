@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW9iYXg1OHY0bDRhODNqNXFjemY1N2t2eG16YXdnc2k2eGF0OGwzMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WoD6JZnwap6s8/giphy.gif"  />
+  <img height="550" src="https://r4.wallpaperflare.com/wallpaper/629/285/296/space-tylercreatesworlds-space-art-nebula-wallpaper-61f5384df047fa3130964227f16fea06.jpg"  />
 </div>
 
 ###
@@ -91,11 +91,5 @@
     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/XXOriginalXX/XXOriginalXX/output/snake.svg" alt="Snake animation" />
 
 ###
