@@ -1,4 +1,4 @@
-<h2 align="left">Hi  My name is Adithyan  and I'm a AI Enthusiast</h2>
+<h2 align="left">An AI Enthusiast</h2>
 
 ###
 
