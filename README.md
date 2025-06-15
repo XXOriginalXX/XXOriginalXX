@@ -74,9 +74,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="pytorch logo"  />
 </div>
 
-###
-
-<img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGtpaGtlbXY0ZmxzamY5MHR4dTB1YmJiNThoeXphazA2ZjJ2cnVjbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6WyINXd0MM5GqWicnj/giphy.gif"  />
 
 ###
 
